@@ -124,6 +124,7 @@
 }
 body {
   background-image: url(pexels-lucie-liz-3165335.jpg);
+  max-width: 1400px;
   background-repeat: no-repeat;
   background-size: cover;
 }
